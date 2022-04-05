@@ -1,0 +1,14 @@
+C:\Users\Eagha\Desktop\CodeLessons\BP202\17. 05042022\05042022\StoreTask\bin\Debug\netcoreapp3.1\StoreTask.exe
+C:\Users\Eagha\Desktop\CodeLessons\BP202\17. 05042022\05042022\StoreTask\bin\Debug\netcoreapp3.1\StoreTask.deps.json
+C:\Users\Eagha\Desktop\CodeLessons\BP202\17. 05042022\05042022\StoreTask\bin\Debug\netcoreapp3.1\StoreTask.runtimeconfig.json
+C:\Users\Eagha\Desktop\CodeLessons\BP202\17. 05042022\05042022\StoreTask\bin\Debug\netcoreapp3.1\StoreTask.runtimeconfig.dev.json
+C:\Users\Eagha\Desktop\CodeLessons\BP202\17. 05042022\05042022\StoreTask\bin\Debug\netcoreapp3.1\StoreTask.dll
+C:\Users\Eagha\Desktop\CodeLessons\BP202\17. 05042022\05042022\StoreTask\bin\Debug\netcoreapp3.1\StoreTask.pdb
+C:\Users\Eagha\Desktop\CodeLessons\BP202\17. 05042022\05042022\StoreTask\obj\Debug\netcoreapp3.1\StoreTask.csproj.AssemblyReference.cache
+C:\Users\Eagha\Desktop\CodeLessons\BP202\17. 05042022\05042022\StoreTask\obj\Debug\netcoreapp3.1\StoreTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eagha\Desktop\CodeLessons\BP202\17. 05042022\05042022\StoreTask\obj\Debug\netcoreapp3.1\StoreTask.AssemblyInfoInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\BP202\17. 05042022\05042022\StoreTask\obj\Debug\netcoreapp3.1\StoreTask.AssemblyInfo.cs
+C:\Users\Eagha\Desktop\CodeLessons\BP202\17. 05042022\05042022\StoreTask\obj\Debug\netcoreapp3.1\StoreTask.csproj.CoreCompileInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\BP202\17. 05042022\05042022\StoreTask\obj\Debug\netcoreapp3.1\StoreTask.dll
+C:\Users\Eagha\Desktop\CodeLessons\BP202\17. 05042022\05042022\StoreTask\obj\Debug\netcoreapp3.1\StoreTask.pdb
+C:\Users\Eagha\Desktop\CodeLessons\BP202\17. 05042022\05042022\StoreTask\obj\Debug\netcoreapp3.1\StoreTask.genruntimeconfig.cache

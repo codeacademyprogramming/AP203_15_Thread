@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a4636209-5f0b-4e20-b14f-1434f86dd3e7": {
+      "ProjectGuid": "a4636209-5f0b-4e20-b14f-1434f86dd3e7",
+      "DisplayName": "StoreTask",
+      "ColorIndex": 0
+    },
+    "abfe0395-3919-4c98-b832-973b69666a32": {
+      "ProjectGuid": "abfe0395-3919-4c98-b832-973b69666a32",
+      "DisplayName": "Classes",
+      "ColorIndex": 1
+    },
+    "9d8a1f5e-f621-488b-80a1-dfd80fd4d8af": {
+      "ProjectGuid": "9d8a1f5e-f621-488b-80a1-dfd80fd4d8af",
+      "DisplayName": "ThreadLesson",
+      "ColorIndex": 2
+    },
+    "7d143dea-d71e-4707-b87b-97fe84c94eae": {
+      "ProjectGuid": "7d143dea-d71e-4707-b87b-97fe84c94eae",
+      "DisplayName": "Progressbar",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

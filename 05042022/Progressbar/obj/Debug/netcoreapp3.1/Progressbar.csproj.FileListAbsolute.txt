@@ -1,0 +1,16 @@
+C:\Users\Eagha\Desktop\CodeLessons\BP202\17. 05042022\05042022\Progressbar\bin\Debug\netcoreapp3.1\Progressbar.exe
+C:\Users\Eagha\Desktop\CodeLessons\BP202\17. 05042022\05042022\Progressbar\bin\Debug\netcoreapp3.1\Progressbar.deps.json
+C:\Users\Eagha\Desktop\CodeLessons\BP202\17. 05042022\05042022\Progressbar\bin\Debug\netcoreapp3.1\Progressbar.runtimeconfig.json
+C:\Users\Eagha\Desktop\CodeLessons\BP202\17. 05042022\05042022\Progressbar\bin\Debug\netcoreapp3.1\Progressbar.runtimeconfig.dev.json
+C:\Users\Eagha\Desktop\CodeLessons\BP202\17. 05042022\05042022\Progressbar\bin\Debug\netcoreapp3.1\Progressbar.dll
+C:\Users\Eagha\Desktop\CodeLessons\BP202\17. 05042022\05042022\Progressbar\bin\Debug\netcoreapp3.1\Progressbar.pdb
+C:\Users\Eagha\Desktop\CodeLessons\BP202\17. 05042022\05042022\Progressbar\obj\Debug\netcoreapp3.1\Progressbar.csproj.AssemblyReference.cache
+C:\Users\Eagha\Desktop\CodeLessons\BP202\17. 05042022\05042022\Progressbar\obj\Debug\netcoreapp3.1\Progressbar.Form1.resources
+C:\Users\Eagha\Desktop\CodeLessons\BP202\17. 05042022\05042022\Progressbar\obj\Debug\netcoreapp3.1\Progressbar.csproj.GenerateResource.cache
+C:\Users\Eagha\Desktop\CodeLessons\BP202\17. 05042022\05042022\Progressbar\obj\Debug\netcoreapp3.1\Progressbar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eagha\Desktop\CodeLessons\BP202\17. 05042022\05042022\Progressbar\obj\Debug\netcoreapp3.1\Progressbar.AssemblyInfoInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\BP202\17. 05042022\05042022\Progressbar\obj\Debug\netcoreapp3.1\Progressbar.AssemblyInfo.cs
+C:\Users\Eagha\Desktop\CodeLessons\BP202\17. 05042022\05042022\Progressbar\obj\Debug\netcoreapp3.1\Progressbar.csproj.CoreCompileInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\BP202\17. 05042022\05042022\Progressbar\obj\Debug\netcoreapp3.1\Progressbar.dll
+C:\Users\Eagha\Desktop\CodeLessons\BP202\17. 05042022\05042022\Progressbar\obj\Debug\netcoreapp3.1\Progressbar.pdb
+C:\Users\Eagha\Desktop\CodeLessons\BP202\17. 05042022\05042022\Progressbar\obj\Debug\netcoreapp3.1\Progressbar.genruntimeconfig.cache
